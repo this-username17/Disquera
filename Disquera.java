@@ -61,7 +61,7 @@ public class Disquera {
             System.out.println("El cantante: " + cantanteaBuscar + ", no se encontró");
         }
     }
-
+//método para buscar Discos entre todos los cantantes de la disquera
     public void buscarDisco(String nombreDisco) {
         String FraseDisco = null;
         Cantante cantante1 = new Cantante();
