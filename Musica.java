@@ -59,11 +59,11 @@ public class Musica {
         
         //----------------------------------------------------------------------
         //usar métodos
-//        System.out.println(Chisme.getNoVentas());
-//        Codiscos.CantanteNoVentas("Reykon");
-//        Codiscos.CantanteNoVentas("Shakira");
-//        Codiscos.buscarCantante("Shakira");
-//        Codiscos.buscarCantante("Reykon");
+        System.out.println(Chisme.getNoVentas());
+        Codiscos.CantanteNoVentas("Reykon");
+        Codiscos.CantanteNoVentas("Shakira");
+        Codiscos.buscarCantante("Shakira");
+        Codiscos.buscarCantante("Reykon");
         Codiscos.buscarDisco("Hola");
     }
     
